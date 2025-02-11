@@ -59,7 +59,7 @@ The main goal of this project is to develop an accurate machine learning model t
 
 ✅ Feature scaling and balancing techniques (e.g., SMOTE) improve model performance.
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 * Hyperparameter tuning for AdaBoost to further optimize performance.
 * Adding more features like lifestyle habits, cholesterol levels, and physical activity.
 * Deploying the model using Flask or Streamlit for real-time predictions.
