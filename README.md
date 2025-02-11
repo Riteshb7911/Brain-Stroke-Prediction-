@@ -3,10 +3,6 @@
 According to the World Health Organization (WHO),Brain stroke is the world's second biggest cause of death causing nearly 11% of all deaths. Despite significant advances in healthcare, Brain stroke remains to be a serious public health issue. This highlights the critical need for improved prevention, early identification, and effective precautions should be taken  to minimize the world impact of Brain stroke
 ## 📌 Project Overview
 The Brain Stroke Prediction project leverages machine learning 🤖 to predict the likelihood of a person experiencing a stroke based on various health 🏥 and lifestyle factors. This can assist in early diagnosis and preventive healthcare strategies.
-## 📊 Dataset
-The dataset consists of 12 features that help in stroke prediction:
-# 🧠 Brain Stroke Prediction 🚑
-
 ## 📊 Dataset Description  
 The dataset consists of **12 features** that help in stroke prediction:  
 
